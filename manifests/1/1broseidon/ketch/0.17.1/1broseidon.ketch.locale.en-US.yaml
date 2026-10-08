@@ -11,7 +11,7 @@ PackageUrl: https://ketch.run
 License: MIT
 LicenseUrl: https://github.com/1broseidon/ketch/blob/main/LICENSE
 Copyright: Copyright (c) 2026 George Dikeakos
-ShortDescription: Fast, stateless CLI for web search, code search, docs, scraping, and crawling.
+ShortDescription: Command-line tool for web search, code search, library docs, and converting web pages to markdown.
 Description: |-
   ketch is a fast, stateless command-line tool for agentic web research.
   It searches the web, greps real open-source code, fetches library
